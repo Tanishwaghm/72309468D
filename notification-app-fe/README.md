@@ -1,7 +1,15 @@
-# Notification App Frontend
+# Notification Priority System
 
-Frontend application for displaying notifications to users.
+Frontend Track Submission
 
-## Getting Started
+## Tech Stack
 
-Install dependencies and follow the configuration guide to set up the frontend.
+- React
+- TypeScript
+- Vanilla CSS
+
+## Features
+
+- Priority notification cards
+- Top notification display
+- Efficient notification ranking
